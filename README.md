@@ -8,7 +8,7 @@ You'll find my code examples and projects right here!
 
 ## Projects Included
 
-### Project 1: [Color Detection & Bounding Box](link-to-project-folder)
+### Project 1: [Color Detection & Bounding Box](https://github.com/Arjun9630/ComputerVision--Projects/tree/main/Colour_Detection)
 **Description:**  
 My first OpenCV project where I built a real-time color detection system. It detects a specific color (like yellow or blue) in a live webcam feed and draws a bounding box around the detected area.
 
