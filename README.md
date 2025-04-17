@@ -1,4 +1,4 @@
-# Computer Vision Projects 👁️✨🚀
+# Computer Vision Projects
 
 Hey there! This repo is a collection of my hands-on computer vision mini-projects using **Python**, **OpenCV**, and various other libraries and technologies!  
 I'm excited to share my progress and showcase the wonders of programming.  
